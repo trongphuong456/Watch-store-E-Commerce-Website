@@ -26,6 +26,16 @@ export const BrandPageWrapper = styled.div`
     }
   }
 `;
+export const TitleBrandWrapper = styled.div`
+  width: 70%;
+  margin: 10px auto 0;
+
+  h1 {
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: 700;
+  }
+`;
 
 export const TextBrandWrapper = styled.div`
   width: 70%;

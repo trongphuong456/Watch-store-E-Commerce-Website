@@ -12,6 +12,28 @@ export const ProductBrands = styled.div`
   padding: 12px;
 `;
 
+export const TitleProductPageWrapper = styled.div`
+  width: 70%;
+  margin: 10px auto 0;
+
+  h1 {
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: 700;
+  }
+`;
+
+export const TextProductPageWrapper = styled.div`
+  width: 70%;
+  margin: 10px auto 0;
+
+  .text-content {
+    text-align: center;
+    font-size: 20px;
+    font-family: "Times New Roman", Times, serif;
+  }
+`;
+
 export const ProductBrandItem = styled.div`
   display: flex;
   justify-content: center;

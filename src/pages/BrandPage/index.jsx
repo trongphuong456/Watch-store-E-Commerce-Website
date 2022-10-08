@@ -121,7 +121,9 @@ const BrandPage = () => {
               />
             </div>
           </div>
-
+          <S.TitleBrandWrapper>
+            <h1>THƯƠNG HIỆU</h1>
+          </S.TitleBrandWrapper>
           <S.TextBrandWrapper>
             <p className="text-content">
               "Một sản phẩm có thể lỗi thời nhanh chóng, nhưng một thương hiệu

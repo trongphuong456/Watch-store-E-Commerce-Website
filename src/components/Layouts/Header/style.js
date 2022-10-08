@@ -50,7 +50,8 @@ export const HeaderNav = styled.ul`
     margin: 0 8px;
 
     &:hover {
-      background-color: #ccc;
+      background: rgba(0, 0, 0, 0.1);
+      cursor: pointer;
     }
     &:hover .dropdown-container {
       display: inline-block !important;

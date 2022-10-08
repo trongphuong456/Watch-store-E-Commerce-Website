@@ -1,0 +1,38 @@
+{
+  "productMen": [
+    {
+      "id": 1,
+      "name": "Đồng hồ CASIO 41 mm Nam MTP-VD02L-7EUDF ",
+      "price": 868000,
+      "category": "Casio",
+      "image": "https://cdn.tgdd.vn/Products/Images/7264/286439/casio-mtp-vd02l-7eudf-nam-2-1.jpg",
+      "gender": "male",
+      "caseSize": 41,
+      "caseMaterial": "Thép không gỉ mạ Ion",
+      "glassMaterial": "Kính khoáng",
+      "strapMaterial": "Da tổng hợp",
+      "strapSize": 22,
+      "movement": "Pin",
+      "waterResist": "1 ATM",
+      "caseWidth": 9.6,
+      "warranty": 1
+    },
+    {
+      "id": 2,
+      "name": "Đồng hồ CASIO 40 mm Nam MTP-VT01GL-1B2UDF ",
+      "price": 947000,
+      "category": "Casio",
+      "image": "https://cdn.tgdd.vn/Products/Images/7264/286440/casio-mtp-vt01gl-1b2udf-nam-2-1.jpg",
+      "gender": "male",
+      "caseSize": 41,
+      "caseMaterial": "Thép không gỉ ",
+      "glassMaterial": "Kính khoáng",
+      "strapMaterial": "Da tổng hợp",
+      "strapSize": 22,
+      "movement": "Pin",
+      "waterResist": "3 ATM",
+      "caseWidth": 9,
+      "warranty": 1
+    }
+  ]
+}
